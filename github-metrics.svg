@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="689" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="672" class="">
     <defs>
         <style/>
     </defs>
@@ -2320,14 +2320,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 4 commits in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
+                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">2.0</span></div>
                                     <div class="commit">
-                                        <span class="sha">#d96764c</span>
-                                        <span class="message">Merge branch 'master' into 2.0</span>
+                                        <span class="sha">#a0ea1f7</span>
+                                        <span class="message">Update game_hangman buildAnswers label</span>
                                     </div>
                                 </div>
                             </section>
@@ -2345,10 +2345,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">2.0</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a07bf58</span>
-                                        <span class="message">Convert leaderboard.js to class
-
-Convert leaderboard.js to a class and move its import to the game handler.</span>
+                                        <span class="sha">#c062e0e</span>
+                                        <span class="message">Add cancelled value to game on init</span>
                                     </div>
                                 </div>
                             </section>
@@ -2360,14 +2358,14 @@ Convert leaderboard.js to a class and move its import to the game handler.</span
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/LakeYS.net</span>
+                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">2.0</span></div>
                                     <div class="commit">
-                                        <span class="sha">#695a3e1</span>
-                                        <span class="message">Add explicit height to preview image</span>
+                                        <span class="sha">#b555f48</span>
+                                        <span class="message">Update round end warning for consistency</span>
                                     </div>
                                 </div>
                             </section>
@@ -2379,14 +2377,14 @@ Convert leaderboard.js to a class and move its import to the game handler.</span
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/LakeYS.net</span>
+                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">2.0</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c335cc8</span>
-                                        <span class="message">Display swap for all Google fonts</span>
+                                        <span class="sha">#59df49f</span>
+                                        <span class="message">Fix ID call (see d96764c)</span>
                                     </div>
                                 </div>
                             </section>
@@ -2398,14 +2396,14 @@ Convert leaderboard.js to a class and move its import to the game handler.</span
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/LakeYS.net</span>
+                      Pushed 4 commits in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">2.0</span></div>
                                     <div class="commit">
-                                        <span class="sha">#479364d</span>
-                                        <span class="message">Fix site downloads for Trivia</span>
+                                        <span class="sha">#d96764c</span>
+                                        <span class="message">Merge branch 'master' into 2.0</span>
                                     </div>
                                 </div>
                             </section>
