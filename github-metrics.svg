@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="676" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="729" class="">
     <defs>
         <style/>
     </defs>
@@ -2399,6 +2399,41 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 4 commits in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2.0</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fd87dc7</span>
+                                        <span class="message">Fix "=this" in discord_main.js</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c23755a</span>
+                                        <span class="message">Migrate category index functions to Database class
+
+Migrate buildCategorySearchIndex and getCategoryFromStr to the database object.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7f1146d</span>
+                                        <span class="message">Fix spacing for allowLongAnswers assignment</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1651ede</span>
+                                        <span class="message">Change database-merge check to use throw
+
+Throw an error rather than calling process.exit() directly upon merger DB protocol check.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
                     </div>
                                 </div>
@@ -2470,25 +2505,6 @@ Rename score-multiplier-max to unique-multiplier-max and re-implement its functi
                                     <div class="commit">
                                         <span class="sha">#6d91c79</span>
                                         <span class="message">Correct the "exit" eval cmd to use new context</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#6f654ca</span>
-                                        <span class="message">Update dependencies</span>
                                     </div>
                                 </div>
                             </section>
