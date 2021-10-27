@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="659" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1334" class="">
     <defs>
         <style/>
     </defs>
@@ -2427,6 +2427,238 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 142 commits in <span class="repo">cityrpg/CityRPG-4</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">medical</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#73fff53</span>
+                                        <span class="message">Add "lots visited" to stats, remove "Wallet"</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a6e6054</span>
+                                        <span class="message">Create onEnterLotFirst event
+
+Add onEnterLotFirst, an input event that first on a lot for when players enter this lot for the first time.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9c09200</span>
+                                        <span class="message">Remove broken "tools" data value and implementation
+
+Remove the broken and unused "tools" value that does not initialize correctly by the saver due to a blank string. Fixes "Incorrect amount of arguments!" error on startup.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f7cf6e5</span>
+                                        <span class="message">Track lots visited under lotsVisited data value</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5967dd5</span>
+                                        <span class="message">Comment Sniper Rifle as an optional add-on</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1e3680c</span>
+                                        <span class="message">Remove unused data keys
+
+Remove unused data keys from the game-mode.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#eaed694</span>
+                                        <span class="message">Create CityMenu_Mayor
+
+Create a simple mayor menu, implementing options for /pardon and /eraseRecord.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5f62ce9</span>
+                                        <span class="message">Create CityMenu_Player</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b9aeff7</span>
+                                        <span class="message">Create hunger icon and disabled HUD integration</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fff9470</span>
+                                        <span class="message">Remove extra space from comment in registry</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ce6ce59</span>
+                                        <span class="message">Remove talk call</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#94cba39</span>
+                                        <span class="message">Refactor conditional checks for commands
+
+Leaving functionality entirely unchanged, refactor the conditional checks for the commands: /donate, /buyErase, /pardon, /eraseRecord, /reincarnate, /dropMoney.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a1a43b5</span>
+                                        <span class="message">Add canOverride arg to cityMenuOpen and implement
+
+Add a canOverride arg to cityMenuOpen to replace the usage of client.cityMenuClose(1); at the start of "sub-menu" items.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#45e6c91</span>
+                                        <span class="message">Merge branch 'master' into print-menus</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7cd62fa</span>
+                                        <span class="message">Fix print menu option return</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5b101ba</span>
+                                        <span class="message">Override menu inputs with custom call
+
+Create an override to use our own call function for city menus, passing the proper inputs and menu IDs. This fixes the menus getting stuck and submenus not receiving input. (Fixes the job and real estate menus)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9375b48</span>
+                                        <span class="message">Add menu titles and count check
+
+- Add and implement titles for each menu, replacing several existing "title" messages.
+
+- Add a check to ensure that the menu function is not called with 0 menu items, resulting in an infinite loop.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#124d0e8</span>
+                                        <span class="message">Merge branch 'master' into print-menus</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5ad479b</span>
+                                        <span class="message">Update menu fonts</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#90181e0</span>
+                                        <span class="message">Add Conan's center prints and implement
+
+Add Conan's center print system and set up a simple functional implementation.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 105 commits in <span class="repo">cityrpg/CityRPG-4</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">commerce</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5133496</span>
+                                        <span class="message">Fix pardon check and incorporate admin mode</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1492db7</span>
+                                        <span class="message">Refactor conditionals for /dMoney</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5aa3368</span>
+                                        <span class="message">Implement city.add and city.subtract, lot registry integration
+
+- Create city.add and city.subtract functions for adding and subtracting from the specified values. Implement these functions to replace usage of CityRPGData in the entirety of the lot registry menus.
+
+- Remove debug logging from City::Get</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9d6a148</span>
+                                        <span class="message">Fix mis-named var in lot registry
+
+Fix critical mis-named vars introduced in e8038cc</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e77f862</span>
+                                        <span class="message">Update arms dealer description for clarity</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ba46a00</span>
+                                        <span class="message">Create promotions fields for applicable jobs</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0c9addc</span>
+                                        <span class="message">Implement City object for obtaining data
+
+Implement a new generic object for obtaining player data, an object named City with ::get and ::set functions for obtaining respective player data. This new object is intended to be used in place of CityRPGData calls from this point forward.
+
+Utilize this new object in the admin mode toggler as a test.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#42eb266</span>
+                                        <span class="message">Fix extra slash in jobTrees loading</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#21b4bc9</span>
+                                        <span class="message">Refactor ore.cs and tree.cs conditionals</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bf7a897</span>
+                                        <span class="message">Move reincarnation to new client function doReincarnate</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#777be41</span>
+                                        <span class="message">Cancel mayor schedule on cleanup</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#96e1a83</span>
+                                        <span class="message">Update election vote checks and mesasges
+
+Update election vote checks to reword messages, remove the blank check, and add a message for inputs that do not return a player.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1b9a2fa</span>
+                                        <span class="message">Refactor serverCmdvoteElection conditionals
+
+Refactor conditional checks in serverCmdvoteElection, leaving the functionality unchanged.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#45e6c91</span>
+                                        <span class="message">Merge branch 'master' into print-menus</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7cd62fa</span>
+                                        <span class="message">Fix print menu option return</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5b101ba</span>
+                                        <span class="message">Override menu inputs with custom call
+
+Create an override to use our own call function for city menus, passing the proper inputs and menu IDs. This fixes the menus getting stuck and submenus not receiving input. (Fixes the job and real estate menus)</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9375b48</span>
+                                        <span class="message">Add menu titles and count check
+
+- Add and implement titles for each menu, replacing several existing "title" messages.
+
+- Add a check to ensure that the menu function is not called with 0 menu items, resulting in an infinite loop.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#124d0e8</span>
+                                        <span class="message">Merge branch 'master' into print-menus</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5ad479b</span>
+                                        <span class="message">Update menu fonts</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#90181e0</span>
+                                        <span class="message">Add Conan's center prints and implement
+
+Add Conan's center print system and set up a simple functional implementation.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -2472,48 +2704,6 @@
                                         <span class="message">Rearrange example config sections alphabetically
 
 Rearrange config, leaving names and values unchanged.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#40b6665</span>
-                                        <span class="message">Rename reveal-answers to hide-answers
-
-Config breaking change: Rename to hide-answers for clarity, invert default, init, and checks to match.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#07bfe6d</span>
-                                        <span class="message">Use game.timer in pre-game rules
-
-Use game.timer in pre-game rules to display the correct timing in hangman.</span>
                                     </div>
                                 </div>
                             </section>
