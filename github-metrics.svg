@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1314" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1349" class="">
     <defs>
         <style/>
     </defs>
@@ -2431,6 +2431,33 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 3 commits in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2.0</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#742dc3b</span>
+                                        <span class="message">Fix spacing in Trivia.parse</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#eb08a61</span>
+                                        <span class="message">Reimplement hangman-mode and use-reactions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1df04d2</span>
+                                        <span class="message">Add use-reactions deprecation warning</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 142 commits in <span class="repo">cityrpg/CityRPG-4</span>
                     </div>
                                 </div>
@@ -2685,27 +2712,6 @@ Add Conan's center print system and set up a simple functional implementation.</
                                 <div class="details">
                                     <div>opened by Deldaflyer in <span class="repo">LakeYS/Discord-Trivia-Bot</span></div>
                                     <div>23 files changed <span class="code">++488 --289</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#cefb5be</span>
-                                        <span class="message">Rearrange example config sections alphabetically
-
-Rearrange config, leaving names and values unchanged.</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
