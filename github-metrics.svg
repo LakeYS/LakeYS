@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="713" class="">
     <defs>
         <style/>
     </defs>
@@ -2431,6 +2431,78 @@
                                 <div class="details">
                                     <div>on branch <span class="code">2.0</span></div>
                                     <div class="commit">
+                                        <span class="sha">#5f40de9</span>
+                                        <span class="message">Fix hangman hint timer
+
+- Change the hangman hint timer to use the game timer instead of the round length, fixing hints displaying too early.
+- In the process, remove the remaining getConfigVal call</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 3 commits in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2.0</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#55adbdc</span>
+                                        <span class="message">Update config &amp; configData naming
+
+Inherit ConfigData into discord_main.js from shard.js to avoid re-importing config.js. Rename ConfigData and Config to use camel case. Assign config and configData to the TriviaDiscord option.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#816d141</span>
+                                        <span class="message">Move reaction deprecation warning under displayWarnings</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#97a6106</span>
+                                        <span class="message">Spacing fix for game.js</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2.0</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#18485fb</span>
+                                        <span class="message">Fix letter answer in hangman games
+
+Fix hangman games attempting to display a letter answer</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">2.0</span></div>
+                                    <div class="commit">
                                         <span class="sha">#72b9799</span>
                                         <span class="message">Create config option disable-discord-presence</span>
                                     </div>
@@ -2452,65 +2524,6 @@
                                     <div class="commit">
                                         <span class="sha">#8b71d55</span>
                                         <span class="message">Add fixed round documentation to install pag</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Dishorde</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#66875ee</span>
-                                        <span class="message">Update discord.js and dependencies
-
-Update discord.js to 13.3.0</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#b5a511d</span>
-                                        <span class="message">Update discord.js to 13.3.0</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">LakeYS/Discord-Trivia-Bot</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">2.0</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#6536bee</span>
-                                        <span class="message">Update dependencies</span>
                                     </div>
                                 </div>
                             </section>
